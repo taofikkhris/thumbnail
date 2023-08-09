@@ -1,6 +1,4 @@
 # Materia Tools
-- HTML Formatter Tool;
-- Syntax Highlighter Tool;
 - Thumbnail Generator.
 
 # Credits
