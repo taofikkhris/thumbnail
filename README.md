@@ -9,4 +9,4 @@
 - [highlight.js](https://github.com/highlightjs/highlight.js);
 - [Materialize](https://github.com/Dogfalo/materialize).
 
-Copyright © Yasya El Hakim - <a href="https://www.elcreativeacademy.com/" target="_blank" alt="EL Creative Academy">EL Creative Academy</a>   
+Copyright © Taofik Krisdiyanto - <a href="https://www.gawewebs.com/" target="_blank" alt="Gawewebs">Gawewebs</a>   
